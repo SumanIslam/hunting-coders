@@ -34,15 +34,15 @@ export default function Home() {
         <div className="blogs">
           <h2>Popular blogs</h2>
           <div className="blogItem">
-            <h1>How to learn JavaScript in 2022</h1>
+            <h1>How to learn JavaScript in 2022?</h1>
             <p>JavaScript is the language used to design logic for the web</p>
           </div>
           <div className="blogItem">
-            <h1>How to learn JavaScript in 2022</h1>
+            <h1>How to learn JavaScript in 2022?</h1>
             <p>JavaScript is the language used to design logic for the web</p>
           </div>
           <div className="blogItem">
-            <h1>How to learn JavaScript in 2022</h1>
+            <h1>How to learn JavaScript in 2022?</h1>
             <p>JavaScript is the language used to design logic for the web</p>
           </div>
         </div>
